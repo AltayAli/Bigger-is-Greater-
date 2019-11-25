@@ -23,7 +23,7 @@ The first line of input contains T, the number of test cases.
 Each of the next T lines contains w.
 Constraints
 
-1<=T<=10^5
+1<=T<=10^5 ; 
 1<=|w|<=100
 w will contain only letters in the range ascii[a..z].
  
