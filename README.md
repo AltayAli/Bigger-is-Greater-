@@ -1,5 +1,5 @@
 # Bigger-is-Greater-
-HackerRank Task 
+HackerRank Task : 
 Lexicographical order is often known as alphabetical order when dealing with strings. A string is greater than another string if it comes later in a lexicographically sorted list.
 
 Given a word, create a new word by swapping some or all of its characters. This new word must meet two criteria:
